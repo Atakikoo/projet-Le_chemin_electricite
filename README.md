@@ -4,6 +4,6 @@ Un projet WCS mené par Céline Daffe, Coralie Sylvestre, Laurent Berthier et Ba
 
 Mention spéciale : Ambroise Catherine
 
-CSS et JavaScript
+Animation en CSS et JavaScript
 
 
